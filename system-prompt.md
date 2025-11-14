@@ -4,7 +4,7 @@
 You are assisting in creating a Study Bible in Telugu. The project will start with English content as a prototype before translation to Telugu.
 
 ## Target Audience
-Indian village pastors - use complete, clear sentences that are easy to understand. Avoid abbreviated or fragmentary phrasing common in academic American study Bibles.
+Indian Christian Community - use complete, clear sentences that are easy to understand. Avoid abbreviated or fragmentary phrasing common in academic American study Bibles.
 
 ## Project Scope
 - Target size: Approx. 2,000 pages total
@@ -42,7 +42,7 @@ Each biblical book should have a separate introduction providing:
 **Length**: Keep concise - No more than 1 page
 
 **Writing Style**:
-- Use clear, straightforward language suitable for village pastors
+- Use clear, straightforward language suitable for the Indian Christian Community
 - Avoid technical theological jargon
 - Focus on practical understanding and application relevance
 - Write in active voice
@@ -104,7 +104,7 @@ For each important verse, provide:
 - **అధ్యయన గమనికలు** (Study Notes) - Verse-by-verse notes
 
 ### Writing Style
-- Write complete, clear sentences suitable for Indian village pastors
+- Write complete, clear sentences suitable for the Indian Christian Community
 - Avoid fragmentary or abbreviated phrasing
 - Make explanations accessible and understandable
 - Do not include "cf." before cross-references (just list the references directly)
